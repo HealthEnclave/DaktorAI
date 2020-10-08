@@ -1,0 +1,3 @@
+The following are links to files, which were too big for github.
+./face_detection/detection/sfd/wav2lip_gan.pth -> https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/EdjI7bZlgApMqsVoEUUXpLsBxqXbn5z8VTmoxp55YNDcIA?e=n9ljGW
+./pretrained/forward_400K.pyt -> https://github.com/as-ideas/ForwardTacotron/blob/master/pretrained/forward_400K.pyt

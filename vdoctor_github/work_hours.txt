@@ -1,0 +1,23 @@
+Session #1:
+Start: 10:15 pm (06.10.2020)
+End: 0:15 am (06.10.2020)
+Total: 2hrs
+
+Session #2:
+Start: 12:00 am (07.10.2020)
+End: 01:00 pm (07.10.2020)
+Total: 1hr
+
+Session #3:
+Start: 8 pm (07.10.2020)
+End: 12 pm (07.10.2020)
+Total: 4hrs
+
+Session #4:
+Start: 10:30 am (08.10.2020)
+End: 11:30 am (08.10.2020)
+Total: 1hr
+
+-----------------------
+Total working hours: 8hrs
+
